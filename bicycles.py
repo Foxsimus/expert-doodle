@@ -1,5 +1,5 @@
-bicycles = ['trek', 'cannondale', 'redline', 'specialized']
 #перечисление элементов списка в квадратных скобках
+bicycles = ['trek', 'cannondale', 'redline', 'specialized']
 print(bicycles)
 #название первого велосипеда в списке bicycles выводится следующим образом
 print(bicycles[0])
